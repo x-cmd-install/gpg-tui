@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.2"
   latestRelease: "v0.11.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:43:25Z
+  collectedAt: 2026-09-10T16:35:52Z
 timeline:
   created: 2020-12-26
   lastCommit: 2026-09-07
@@ -85,7 +85,7 @@ total:
   commit: 906
 ---
 path: /home/runner/.x-repo/github.com/orhun/gpg-tui
-collectedAt: 2026-09-10T04:43:27Z
+collectedAt: 2026-09-10T16:35:53Z
 loc:
   Rust:
     code: 6578
