@@ -23,7 +23,14 @@ x install gpg-tui
 - **Latest**: `v0.11.2` (2026-04-23)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 3
-- **Published**: 2026-04-23T16:52:30Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/x64/glibc` |
+| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512) | 177 B | `native/linux/x64/glibc` |
+| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig) | 566 B | `native/linux/x64/glibc` |
 
 ## Popularity
 
@@ -68,8 +75,8 @@ Lowest-scoring checks:
 Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gpg-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gpg-tui.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gpg-tui.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:43:32Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:57Z._

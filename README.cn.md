@@ -4,7 +4,7 @@
 
 Manage your GnuPG keys with ease! 🔐
 
-![gpg-tui](https://repo.x-cmd.io/gpg-tui.svg)
+![gpg-tui](https://repo.x-cmd.io/gpg-tui.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,14 @@ x install gpg-tui
 - **最新版本**: `v0.11.2` (2026-04-23)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-04-23T16:52:30Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/x64/glibc` |
+| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512) | 177 B | `native/linux/x64/glibc` |
+| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig) | 566 B | `native/linux/x64/glibc` |
 
 ## 流行度
 
@@ -72,4 +79,4 @@ gpg-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:43:33Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:58Z._
