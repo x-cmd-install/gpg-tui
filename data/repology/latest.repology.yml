@@ -1,0 +1,796 @@
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.9.5
+  origversion: 0.9.5-r1
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-bash-completion
+  visiblename: gpg-tui-bash-completion
+  version: 0.9.5
+  origversion: 0.9.5-r1
+  status: outdated
+  summary: Bash completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-doc
+  visiblename: gpg-tui-doc
+  version: 0.9.5
+  origversion: 0.9.5-r1
+  status: outdated
+  summary: Terminal user interface for GnuPG (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-fish-completion
+  visiblename: gpg-tui-fish-completion
+  version: 0.9.5
+  origversion: 0.9.5-r1
+  status: outdated
+  summary: Fish completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-zsh-completion
+  visiblename: gpg-tui-zsh-completion
+  version: 0.9.5
+  origversion: 0.9.5-r1
+  status: outdated
+  summary: Zsh completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.10.0
+  origversion: 0.10.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-bash-completion
+  visiblename: gpg-tui-bash-completion
+  version: 0.10.0
+  origversion: 0.10.0-r0
+  status: outdated
+  summary: Bash completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-doc
+  visiblename: gpg-tui-doc
+  version: 0.10.0
+  origversion: 0.10.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-fish-completion
+  visiblename: gpg-tui-fish-completion
+  version: 0.10.0
+  origversion: 0.10.0-r0
+  status: outdated
+  summary: Fish completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-zsh-completion
+  visiblename: gpg-tui-zsh-completion
+  version: 0.10.0
+  origversion: 0.10.0-r0
+  status: outdated
+  summary: Zsh completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-bash-completion
+  visiblename: gpg-tui-bash-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Bash completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-doc
+  visiblename: gpg-tui-doc
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-fish-completion
+  visiblename: gpg-tui-fish-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Fish completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-zsh-completion
+  visiblename: gpg-tui-zsh-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Zsh completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-bash-completion
+  visiblename: gpg-tui-bash-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Bash completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-doc
+  visiblename: gpg-tui-doc
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-fish-completion
+  visiblename: gpg-tui-fish-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Fish completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-zsh-completion
+  visiblename: gpg-tui-zsh-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Zsh completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-bash-completion
+  visiblename: gpg-tui-bash-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Bash completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-doc
+  visiblename: gpg-tui-doc
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-fish-completion
+  visiblename: gpg-tui-fish-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Fish completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-zsh-completion
+  visiblename: gpg-tui-zsh-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Zsh completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-bash-completion
+  visiblename: gpg-tui-bash-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Bash completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-doc
+  visiblename: gpg-tui-doc
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Terminal user interface for GnuPG (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-fish-completion
+  visiblename: gpg-tui-fish-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Fish completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-zsh-completion
+  visiblename: gpg-tui-zsh-completion
+  version: 0.11.0
+  origversion: 0.11.0-r0
+  status: outdated
+  summary: Zsh completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-bash-completion
+  visiblename: gpg-tui-bash-completion
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Bash completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-doc
+  visiblename: gpg-tui-doc
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Terminal user interface for GnuPG (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-fish-completion
+  visiblename: gpg-tui-fish-completion
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Fish completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-zsh-completion
+  visiblename: gpg-tui-zsh-completion
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Zsh completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-bash-completion
+  visiblename: gpg-tui-bash-completion
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Bash completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-doc
+  visiblename: gpg-tui-doc
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Terminal user interface for GnuPG (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-fish-completion
+  visiblename: gpg-tui-fish-completion
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Fish completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.1
+  origversion: null
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - rschuetz17@gmail.com
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: gpg-tui
+  binname: gpg-tui-zsh-completion
+  visiblename: gpg-tui-zsh-completion
+  version: 0.11.2
+  origversion: 0.11.2-r0
+  status: newest
+  summary: Zsh completions for gpg-tui
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: altsisyphus
+  srcname: gpg-tui
+  binnames:
+    - gpg-tui
+    - gpg-tui-debuginfo
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2-alt1
+  status: newest
+  summary: Terminal User Interface for GnuPG
+  maintainers:
+    - gerben@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - File tools
+- repo: arch
+  subrepo: extra
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2-1
+  status: newest
+  summary: A terminal user interface for GnuPG
+  licenses:
+    - MIT
+- repo: aur
+  srcname: gpg-tui-git
+  binname: gpg-tui-git
+  visiblename: gpg-tui-git
+  version: 0.9.5.r0.gcfc88c9
+  origversion: 0.9.5.r0.gcfc88c9-1
+  status: rolling
+  summary: A terminal user interface for GnuPG (git)
+  maintainers:
+    - orhun@aur
+  licenses:
+    - MIT
+- repo: crux_37
+  subrepo: contrib
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: null
+  status: outdated
+  summary: Manage your GnuPG keys with ease!
+  maintainers:
+    - tbier@posteo.de
+- repo: crux_38
+  subrepo: contrib
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: null
+  status: newest
+  summary: Manage your GnuPG keys with ease!
+  maintainers:
+    - tbier@posteo.de
+- repo: freebsd
+  srcname: security/gpg-tui
+  binname: gpg-tui
+  visiblename: security/gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2_3
+  status: newest
+  summary: Terminal User Interface for GnuPG
+  maintainers:
+    - se@freebsd.org
+  categories:
+    - security
+- repo: homebrew
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: null
+  status: newest
+  summary: Manage your GnuPG keys with ease!
+- repo: macports
+  srcname: security/gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: null
+  status: newest
+  summary: gpg-tui is a Terminal User Interface for GnuPG.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - security
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2-1
+  status: newest
+  summary: A terminal user interface for GnuPG
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2-1
+  status: newest
+  summary: A terminal user interface for GnuPG
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2-1
+  status: newest
+  summary: A terminal user interface for GnuPG
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: null
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - rschuetz17@gmail.com
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: null
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - rschuetz17@gmail.com
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: null
+  status: outdated
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - rschuetz17@gmail.com
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: null
+  status: newest
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - nix@dotlambda.de
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: null
+  status: newest
+  summary: Terminal user interface for GnuPG
+  maintainers:
+    - nix@dotlambda.de
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: gpg-tui
+  binnames:
+    - gpg-tui
+    - gpg-tui-debuginfo
+    - gpg-tui-debugsource
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2-1.4
+  status: newest
+  summary: Terminal User Interface for GnuPG
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: gpg-tui
+  binname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: 0.11.2-1
+  status: newest
+  summary: A terminal user interface for GnuPG
+  licenses:
+    - MIT
+- repo: pkgsrc_2026_1
+  srcname: security/gpg-tui
+  binname: gpg-tui
+  visiblename: security/gpg-tui
+  version: 0.11.1
+  origversion: null
+  status: outdated
+  summary: Manage your GnuPG keys with ease
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - security
+- repo: pkgsrc_2026_2
+  srcname: security/gpg-tui
+  binname: gpg-tui
+  visiblename: security/gpg-tui
+  version: 0.11.2
+  origversion: null
+  status: newest
+  summary: Manage your GnuPG keys with ease
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - security
+- repo: pkgsrc_current
+  srcname: security/gpg-tui
+  binname: gpg-tui
+  visiblename: security/gpg-tui
+  version: 0.11.2
+  origversion: null
+  status: newest
+  summary: Manage your GnuPG keys with ease
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - security
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: gpg-tui
+  binnames:
+    - gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: 0.11.0-1
+  status: outdated
+  summary: Terminal User Interface for GnuPG
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - MIT
+  categories:
+    - File tools
