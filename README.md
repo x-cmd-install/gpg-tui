@@ -12,43 +12,7 @@ Manage your GnuPG keys with ease! 🔐
 x install gpg-tui
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/orhun/gpg-tui>
-- **Homepage**: <https://blog.orhun.dev/introducing-gpg-tui/>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v0.11.2` (2026-04-23)
-- **Last commit**: 2026-09-07
-- **Assets in release**: 3
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/x64/glibc` |
-| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512) | 177 B | `native/linux/x64/glibc` |
-| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig) | 566 B | `native/linux/x64/glibc` |
-
-## Popularity
-
-- **Stars**: 1,760 · **Forks**: 48 · **Open issues**: 59 · **Contributors**: 11
-
-## Totals (cumulative)
-
-- **Releases**: 34 · **Merged PRs**: 357 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 12 · **Commits**: 906
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 2 | 1 | 0 | 0 | 2 |
-| 90d | 2026-06-12 | 0 | 25 | 1 | 0 | 3 | 25 |
-| 360d | 2025-09-15 | 1 | 108 | 1 | 1 | 4 | 109 |
-
-## Code size
+## Code insight
 
 Total: **6,797** lines of code across **41** files in the top 5 languages.
 
@@ -70,6 +34,57 @@ Lowest-scoring checks:
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
+## Source
+
+- **Upstream**: <https://github.com/orhun/gpg-tui>
+- **Homepage**: <https://blog.orhun.dev/introducing-gpg-tui/>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.11.2` (2026-04-23)
+- **Last commit**: 2026-09-07
+- **Assets in release**: 3
+
+## Popularity
+
+- **Stars**: 1,760 · **Forks**: 48 · **Open issues**: 59 · **Contributors**: 11
+
+## Totals (cumulative)
+
+- **Releases**: 34 · **Merged PRs**: 357 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 12 · **Commits**: 906
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-07-12 | 0 | 15 | 1 | 0 | 0 | 15 |
+| 90d | 2026-06-12 | 0 | 25 | 1 | 0 | 3 | 25 |
+| last180d | 2026-03-14 | 1 | 53 | 1 | 1 | 4 | 57 |
+| 360d | 2025-09-15 | 1 | 108 | 1 | 1 | 4 | 109 |
+| last720d | 2024-09-20 | 2 | 203 | 1 | 6 | 4 | 215 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/x64/glibc` |
+| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512) | 177 B | `native/linux/x64/glibc` |
+| [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig) | 566 B | `native/linux/x64/glibc` |
+
+## Distribution status
+
+Reported by **63** distros on [repology.org](https://repology.org/project/gpg-tui). **25** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.11.2` | ✅ latest |
+| Homebrew | `0.11.2` | ✅ latest |
+| Nix unstable | `0.11.2` | ✅ latest |
+| Alpine edge | `0.11.2` | ✅ latest |
+| openSUSE Tumbleweed | `0.11.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gpg-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -79,4 +94,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:57Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:00:28Z._
