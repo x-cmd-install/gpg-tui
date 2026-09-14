@@ -58,12 +58,12 @@ x install gpg-tui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-07-15 | 0 | 14 | 1 | 0 | 0 | 10 |
-| 90d | 2026-06-15 | 0 | 25 | 1 | 0 | 3 | 23 |
-| last180d | 2026-03-17 | 1 | 53 | 1 | 1 | 4 | 56 |
-| 360d | 2025-09-18 | 1 | 105 | 1 | 1 | 4 | 105 |
-| last720d | 2024-09-23 | 2 | 202 | 1 | 6 | 4 | 214 |
+| 30d | 2026-08-15 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-07-16 | 0 | 13 | 1 | 0 | 0 | 10 |
+| 90d | 2026-06-16 | 0 | 25 | 1 | 0 | 3 | 23 |
+| last180d | 2026-03-18 | 1 | 52 | 1 | 1 | 4 | 56 |
+| 360d | 2025-09-19 | 1 | 104 | 1 | 1 | 4 | 105 |
+| last720d | 2024-09-24 | 2 | 201 | 1 | 6 | 4 | 213 |
 
 ## Release 资产
 
@@ -72,18 +72,6 @@ x install gpg-tui
 | [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/x64/glibc` |
 | [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512) | 177 B | `native/linux/x64/glibc` |
 | [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig) | 566 B | `native/linux/x64/glibc` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/gpg-tui) 上共有 **63** 个发行版报告此项目。**25** 个 ✅ 已是最新上游版本，**37** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.11.2` | ✅ latest |
-| Homebrew | `0.11.2` | ✅ latest |
-| Nix unstable | `0.11.2` | ✅ latest |
-| Alpine edge | `0.11.2` | ✅ latest |
-| openSUSE Tumbleweed | `0.11.2` | ✅ latest |
 
 ## 改进这些数据
 
@@ -94,4 +82,4 @@ gpg-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:56:38Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:03:48Z._
