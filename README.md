@@ -4,7 +4,7 @@
 
 Manage your GnuPG keys with ease! 🔐
 
-![gpg-tui](https://repo.x-cmd.io/gpg-tui.svg)
+[![x-cmd/install — gpg-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gpg-tui.svg)](https://x-cmd.com/install/gpg-tui)
 
 ## Install
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.2` (2026-04-23)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-18
 - **Assets in release**: 3
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 358 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 12 · **Commits**: 907
+- **Releases**: 34 · **Merged PRs**: 360 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 12 · **Commits**: 909
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-20 | 0 | 12 | 1 | 0 | 0 | 11 |
-| 90d | 2026-06-20 | 0 | 23 | 1 | 0 | 3 | 24 |
-| last180d | 2026-03-22 | 1 | 53 | 1 | 1 | 4 | 57 |
-| 360d | 2025-09-23 | 1 | 102 | 1 | 1 | 4 | 106 |
-| last720d | 2024-09-28 | 2 | 202 | 1 | 6 | 4 | 213 |
+| 30d | 2026-08-21 | 0 | 5 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-22 | 0 | 12 | 1 | 0 | 0 | 11 |
+| 90d | 2026-06-22 | 0 | 24 | 1 | 0 | 3 | 22 |
+| last180d | 2026-03-24 | 1 | 52 | 1 | 1 | 4 | 56 |
+| 360d | 2025-09-25 | 1 | 104 | 1 | 1 | 4 | 105 |
+| last720d | 2024-09-30 | 2 | 204 | 1 | 6 | 4 | 215 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:54:09Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:08:08Z._
