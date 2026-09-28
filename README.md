@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,764 · **Forks**: 49 · **Open issues**: 59 · **Contributors**: 11
+- **Stars**: 1,765 · **Forks**: 49 · **Open issues**: 59 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-29 | 0 | 11 | 1 | 0 | 0 | 8 |
-| 90d | 2026-06-29 | 0 | 22 | 1 | 0 | 2 | 21 |
-| last180d | 2026-03-31 | 1 | 53 | 1 | 1 | 4 | 54 |
-| 360d | 2025-10-02 | 1 | 102 | 1 | 1 | 4 | 106 |
-| last720d | 2024-10-07 | 2 | 203 | 1 | 6 | 4 | 214 |
+| 30d | 2026-08-29 | 0 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-30 | 0 | 11 | 1 | 0 | 0 | 8 |
+| 90d | 2026-06-30 | 0 | 22 | 1 | 0 | 2 | 21 |
+| last180d | 2026-04-01 | 1 | 52 | 1 | 1 | 4 | 54 |
+| 360d | 2025-10-03 | 1 | 102 | 1 | 1 | 4 | 106 |
+| last720d | 2024-10-08 | 2 | 203 | 1 | 6 | 4 | 214 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:23:16Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:37:22Z._
