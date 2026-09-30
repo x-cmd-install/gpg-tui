@@ -32,7 +32,7 @@ x install gpg-tui
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install gpg-tui
 
 ## 流行度
 
-- **Star**: 1,765 · **Fork**: 49 · **开放 issue**: 59 · **贡献者**: 11
+- **Star**: 1,766 · **Fork**: 49 · **开放 issue**: 59 · **贡献者**: 11
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install gpg-tui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 5 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 10 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 0 | 21 | 1 | 0 | 2 | 0 |
-| last180d | 2026-04-02 | 1 | 50 | 1 | 1 | 4 | 0 |
-| 360d | 2025-10-04 | 1 | 102 | 1 | 1 | 4 | 0 |
-| last720d | 2024-10-09 | 2 | 200 | 1 | 6 | 4 | 214 |
+| 30d | 2026-08-31 | 0 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-01 | 0 | 10 | 1 | 0 | 0 | 8 |
+| 90d | 2026-07-02 | 0 | 20 | 1 | 0 | 2 | 21 |
+| last180d | 2026-04-03 | 1 | 50 | 1 | 1 | 4 | 54 |
+| 360d | 2025-10-05 | 1 | 102 | 1 | 1 | 4 | 106 |
+| last720d | 2024-10-10 | 2 | 200 | 1 | 6 | 4 | 211 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ gpg-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T05:48:30Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T05:37:27Z._
