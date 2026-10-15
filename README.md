@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,772 · **Forks**: 49 · **Open issues**: 59 · **Contributors**: 11
+- **Stars**: 1,772 · **Forks**: 50 · **Open issues**: 59 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-15 | 0 | 7 | 1 | 0 | 0 | 7 |
-| 90d | 2026-07-16 | 0 | 18 | 1 | 0 | 0 | 18 |
-| last180d | 2026-04-17 | 1 | 49 | 1 | 0 | 4 | 53 |
-| 360d | 2025-10-19 | 1 | 100 | 1 | 1 | 4 | 103 |
-| last720d | 2024-10-24 | 2 | 196 | 1 | 6 | 4 | 208 |
+| 30d | 2026-09-15 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-16 | 0 | 7 | 1 | 0 | 0 | 7 |
+| 90d | 2026-07-17 | 0 | 18 | 1 | 0 | 0 | 18 |
+| last180d | 2026-04-18 | 1 | 49 | 1 | 0 | 4 | 53 |
+| 360d | 2025-10-20 | 1 | 100 | 1 | 1 | 4 | 103 |
+| last720d | 2024-10-25 | 2 | 196 | 1 | 5 | 4 | 207 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:03:56Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:40:05Z._
