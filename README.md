@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.2` (2026-04-23)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-02
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 1,777 · **Forks**: 50 · **Open issues**: 59 · **Contributors**: 11
+- **Stars**: 1,778 · **Forks**: 50 · **Open issues**: 59 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 364 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 12 · **Commits**: 913
+- **Releases**: 34 · **Merged PRs**: 365 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 12 · **Commits**: 914
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-03 | 0 | 8 | 0 | 0 | 0 | 7 |
-| 90d | 2026-08-04 | 0 | 11 | 1 | 0 | 0 | 11 |
-| last180d | 2026-05-06 | 0 | 40 | 1 | 0 | 4 | 39 |
-| 360d | 2025-11-07 | 1 | 99 | 1 | 1 | 4 | 103 |
-| last720d | 2024-11-12 | 2 | 192 | 1 | 5 | 4 | 204 |
+| 30d | 2026-10-04 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-04 | 0 | 9 | 0 | 0 | 0 | 8 |
+| 90d | 2026-08-05 | 0 | 12 | 1 | 0 | 0 | 12 |
+| last180d | 2026-05-07 | 0 | 41 | 1 | 0 | 4 | 40 |
+| 360d | 2025-11-08 | 1 | 100 | 1 | 1 | 4 | 104 |
+| last720d | 2024-11-13 | 2 | 193 | 1 | 5 | 4 | 204 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **63** distros on [repology.org](https://repology.org/project/gpg-tui). **26** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+Reported by **63** distros on [repology.org](https://repology.org/project/gpg-tui). **24** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:08:26Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:48:26Z._
