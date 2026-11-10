@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.2` (2026-04-23)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-09
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 1,777 · **Forks**: 50 · **Open issues**: 60 · **Contributors**: 11
+- **Stars**: 1,778 · **Forks**: 50 · **Open issues**: 60 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 366 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 13 · **Commits**: 915
+- **Releases**: 34 · **Merged PRs**: 368 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 13 · **Commits**: 917
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 5 | 0 | 0 | 1 | 4 |
-| last60d | 2026-09-09 | 0 | 9 | 0 | 0 | 1 | 8 |
-| 90d | 2026-08-10 | 0 | 11 | 1 | 0 | 1 | 11 |
-| last180d | 2026-05-12 | 0 | 40 | 1 | 0 | 5 | 40 |
-| 360d | 2025-11-13 | 1 | 101 | 1 | 1 | 5 | 103 |
-| last720d | 2024-11-18 | 2 | 191 | 1 | 5 | 5 | 202 |
+| 30d | 2026-10-11 | 0 | 7 | 0 | 0 | 1 | 6 |
+| last60d | 2026-09-11 | 0 | 11 | 0 | 0 | 1 | 10 |
+| 90d | 2026-08-12 | 0 | 13 | 1 | 0 | 1 | 13 |
+| last180d | 2026-05-14 | 0 | 42 | 1 | 0 | 5 | 42 |
+| 360d | 2025-11-15 | 1 | 103 | 1 | 1 | 5 | 105 |
+| last720d | 2024-11-20 | 2 | 193 | 1 | 5 | 5 | 204 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:02:26Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:21:22Z._
