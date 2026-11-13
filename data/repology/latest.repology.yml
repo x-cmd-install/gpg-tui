@@ -1,13 +1,3 @@
-- repo: crux_38
-  subrepo: contrib
-  srcname: gpg-tui
-  visiblename: gpg-tui
-  version: 0.11.2
-  origversion: null
-  status: newest
-  summary: Manage your GnuPG keys with ease!
-  maintainers:
-    - tbier@posteo.de
 - repo: alpine_3_18
   subrepo: community
   srcname: gpg-tui
@@ -164,16 +154,6 @@
     - orhunparmaksiz@gmail.com
   licenses:
     - MIT
-- repo: crux_37
-  subrepo: contrib
-  srcname: gpg-tui
-  visiblename: gpg-tui
-  version: 0.11.0
-  origversion: null
-  status: outdated
-  summary: Manage your GnuPG keys with ease!
-  maintainers:
-    - tbier@posteo.de
 - repo: alpine_3_20
   subrepo: community
   srcname: gpg-tui
@@ -577,6 +557,26 @@
     - orhun@aur
   licenses:
     - MIT
+- repo: crux_37
+  subrepo: contrib
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.0
+  origversion: null
+  status: outdated
+  summary: Manage your GnuPG keys with ease!
+  maintainers:
+    - tbier@posteo.de
+- repo: crux_38
+  subrepo: contrib
+  srcname: gpg-tui
+  visiblename: gpg-tui
+  version: 0.11.2
+  origversion: null
+  status: newest
+  summary: Manage your GnuPG keys with ease!
+  maintainers:
+    - tbier@posteo.de
 - repo: freebsd
   srcname: security/gpg-tui
   binname: gpg-tui
@@ -771,7 +771,7 @@
   binname: gpg-tui
   visiblename: security/gpg-tui
   version: 0.11.2
-  origversion: null
+  origversion: 0.11.2nb1
   status: newest
   summary: Manage your GnuPG keys with ease
   maintainers:
