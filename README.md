@@ -24,16 +24,6 @@ Total: **6,797** lines of code across **41** files in the top 5 languages.
 | Sh | 27 | 8 | 7 | 2 |
 | Yaml | 18 | 0 | 0 | 2 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.4 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/orhun/gpg-tui>
@@ -43,7 +33,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.2` (2026-04-23)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 - **Assets in release**: 3
 
 ## Popularity
@@ -52,18 +42,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 371 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 14 · **Commits**: 920
+- **Releases**: 34 · **Merged PRs**: 372 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 14 · **Commits**: 921
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 8 | 0 | 0 | 2 | 7 |
-| last60d | 2026-09-24 | 0 | 10 | 0 | 0 | 2 | 10 |
-| 90d | 2026-08-25 | 0 | 16 | 0 | 0 | 2 | 15 |
-| last180d | 2026-05-27 | 0 | 44 | 1 | 0 | 6 | 44 |
-| 360d | 2025-11-28 | 1 | 102 | 1 | 1 | 6 | 105 |
-| last720d | 2024-12-03 | 2 | 196 | 1 | 5 | 6 | 207 |
+| 30d | 2026-10-25 | 0 | 9 | 0 | 0 | 2 | 8 |
+| last60d | 2026-09-25 | 0 | 11 | 0 | 0 | 2 | 11 |
+| 90d | 2026-08-26 | 0 | 16 | 0 | 0 | 2 | 16 |
+| last180d | 2026-05-28 | 0 | 45 | 1 | 0 | 6 | 45 |
+| 360d | 2025-11-29 | 1 | 103 | 1 | 1 | 6 | 106 |
+| last720d | 2024-12-04 | 2 | 195 | 1 | 5 | 6 | 208 |
 
 ## Release assets
 
@@ -94,4 +84,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:39:07Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:56:04Z._
