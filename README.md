@@ -33,7 +33,7 @@ Total: **6,797** lines of code across **41** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.11.2` (2026-04-23)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 3
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **6,797** lines of code across **41** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 372 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 14 · **Commits**: 921
+- **Releases**: 34 · **Merged PRs**: 374 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 14 · **Commits**: 923
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 9 | 0 | 0 | 2 | 8 |
-| last60d | 2026-09-25 | 0 | 11 | 0 | 0 | 2 | 11 |
-| 90d | 2026-08-26 | 0 | 16 | 0 | 0 | 2 | 16 |
-| last180d | 2026-05-28 | 0 | 45 | 1 | 0 | 6 | 45 |
-| 360d | 2025-11-29 | 1 | 103 | 1 | 1 | 6 | 106 |
-| last720d | 2024-12-04 | 2 | 195 | 1 | 5 | 6 | 208 |
+| 30d | 2026-10-26 | 0 | 10 | 0 | 0 | 2 | 10 |
+| last60d | 2026-09-26 | 0 | 13 | 0 | 0 | 2 | 13 |
+| 90d | 2026-08-27 | 0 | 18 | 0 | 0 | 2 | 18 |
+| last180d | 2026-05-29 | 0 | 47 | 1 | 0 | 6 | 47 |
+| 360d | 2025-11-30 | 1 | 105 | 1 | 1 | 6 | 108 |
+| last720d | 2024-12-05 | 2 | 197 | 1 | 4 | 6 | 208 |
 
 ## Release assets
 
@@ -62,18 +62,6 @@ Total: **6,797** lines of code across **41** files in the top 5 languages.
 | [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/x64/glibc` |
 | [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512) | 177 B | `native/linux/x64/glibc` |
 | [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig) | 566 B | `native/linux/x64/glibc` |
-
-## Distribution status
-
-Reported by **63** distros on [repology.org](https://repology.org/project/gpg-tui). **26** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.11.2` | ✅ latest |
-| Homebrew | `0.11.2` | ✅ latest |
-| Nix unstable | `0.11.2` | ✅ latest |
-| Alpine edge | `0.11.2` | ✅ latest |
-| openSUSE Tumbleweed | `0.11.2` | ✅ latest |
 
 ## Improve this data
 
@@ -84,4 +72,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:56:04Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:34:49Z._
