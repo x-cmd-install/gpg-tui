@@ -24,6 +24,16 @@ Total: **6,797** lines of code across **41** files in the top 5 languages.
 | Sh | 27 | 8 | 7 | 2 |
 | Yaml | 18 | 0 | 0 | 2 |
 
+## OpenSSF Scorecard
+
+Overall score: **5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/orhun/gpg-tui>
@@ -48,12 +58,12 @@ Total: **6,797** lines of code across **41** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 10 | 0 | 0 | 2 | 10 |
-| last60d | 2026-09-26 | 0 | 13 | 0 | 0 | 2 | 13 |
-| 90d | 2026-08-27 | 0 | 18 | 0 | 0 | 2 | 18 |
-| last180d | 2026-05-29 | 0 | 47 | 1 | 0 | 6 | 47 |
-| 360d | 2025-11-30 | 1 | 105 | 1 | 1 | 6 | 108 |
-| last720d | 2024-12-05 | 2 | 197 | 1 | 4 | 6 | 208 |
+| 30d | 2026-10-27 | 0 | 10 | 0 | 0 | 2 | 0 |
+| last60d | 2026-09-27 | 0 | 13 | 0 | 0 | 2 | 0 |
+| 90d | 2026-08-28 | 0 | 18 | 0 | 0 | 2 | 0 |
+| last180d | 2026-05-30 | 0 | 47 | 1 | 0 | 6 | 0 |
+| 360d | 2025-12-01 | 1 | 105 | 1 | 1 | 6 | 0 |
+| last720d | 2024-12-06 | 2 | 196 | 1 | 3 | 6 | 208 |
 
 ## Release assets
 
@@ -72,4 +82,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:34:49Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:28:54Z._
