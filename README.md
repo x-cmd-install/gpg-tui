@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 11 | 0 | 0 | 2 | 11 |
-| last60d | 2026-09-28 | 0 | 14 | 0 | 0 | 2 | 14 |
-| 90d | 2026-08-29 | 0 | 19 | 0 | 0 | 2 | 19 |
-| last180d | 2026-05-31 | 0 | 48 | 1 | 0 | 5 | 48 |
-| 360d | 2025-12-02 | 1 | 106 | 1 | 1 | 6 | 109 |
-| last720d | 2024-12-07 | 2 | 197 | 1 | 3 | 6 | 208 |
+| 30d | 2026-10-29 | 0 | 11 | 0 | 0 | 2 | 11 |
+| last60d | 2026-09-29 | 0 | 14 | 0 | 0 | 2 | 14 |
+| 90d | 2026-08-30 | 0 | 19 | 0 | 0 | 2 | 19 |
+| last180d | 2026-06-01 | 0 | 48 | 1 | 0 | 5 | 48 |
+| 360d | 2025-12-03 | 1 | 105 | 1 | 1 | 6 | 109 |
+| last720d | 2024-12-08 | 2 | 196 | 1 | 3 | 6 | 208 |
 
 ## Release assets
 
@@ -72,6 +72,18 @@ Lowest-scoring checks:
 | [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/x64/glibc` |
 | [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sha512) | 177 B | `native/linux/x64/glibc` |
 | [gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig](https://github.com/orhun/gpg-tui/releases/download/v0.11.2/gpg-tui-0.11.2-x86_64-unknown-linux-gnu.tar.gz.sig) | 566 B | `native/linux/x64/glibc` |
+
+## Distribution status
+
+Reported by **63** distros on [repology.org](https://repology.org/project/gpg-tui). **26** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.11.2` | ✅ latest |
+| Homebrew | `0.11.2` | ✅ latest |
+| Nix unstable | `0.11.2` | ✅ latest |
+| Alpine edge | `0.11.2` | ✅ latest |
+| openSUSE Tumbleweed | `0.11.2` | ✅ latest |
 
 ## Improve this data
 
@@ -82,4 +94,4 @@ Install metadata for gpg-tui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:41:29Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:50:50Z._
